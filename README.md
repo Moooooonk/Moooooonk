@@ -1,13 +1,7 @@
 - 👋 Hi, I’m @Moooooonk
 
-I'm an AI researcher who spends most of my time in an infinite while(true) loop. My life is basically a series of commits and rollbacks, sprinkled with occasional segmentation faults—you know, for character development.
+I’m a college student eager to research AI. My days often pass like an infinite while(true) loop, but they’re filled with a passion for machine learning algorithms. Every weekend, I dive into coding challenges and explore new projects that ignite my curiosity.
 
-I like to think of myself as a singleton, but my social skills are more like a race condition— unpredictable and occasionally crashing when two people talk to me at once. Debugging my life is kind of like chasing a null pointer, but I’ve accepted that some things are just out of scope.
+Sometimes, I feel like my life is in an undefined behavior state, but even in those moments, I make sure not to forget to push new knowledge into my repository. My coding style is best described as “it works for now,” focusing more on the joy of debugging than on error messages.
 
-My code style? A mix between refactoring and “it works, don’t touch it.” I tried switching to dark mode in life, but all it did was increase my coffee consumption and stack overflow visits. I often compile ideas faster than I compile code, but hey, at least CTRL+Z works in code (if only in life, too)!
-
-Favorite exception: “Uncaught TypeError,” because honestly, aren’t we all just trying to catch the right type in this chaotic program we call existence?
-<!---
-Moooooonk/Moooooonk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My favorite error message is “segmentation fault” because it feels like a hint for solving life’s little problems. Each day, I strive to allocate new experiences and become a better researcher!
