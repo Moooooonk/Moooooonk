@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moooooonk
 
-- I'm an AI researcher who spends most of my time in an infinite while(true) loop. My life is basically a series of commits and rollbacks, sprinkled with occasional segmentation faults—you know, for character development.
+I'm an AI researcher who spends most of my time in an infinite while(true) loop. My life is basically a series of commits and rollbacks, sprinkled with occasional segmentation faults—you know, for character development.
 
 I like to think of myself as a singleton, but my social skills are more like a race condition— unpredictable and occasionally crashing when two people talk to me at once. Debugging my life is kind of like chasing a null pointer, but I’ve accepted that some things are just out of scope.
 
